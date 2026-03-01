@@ -31,4 +31,5 @@ env/
 # Database files
 *.sqlite3
 
-connect.py
+connect.pyloginapp/connect.py
+loginapp/connect.py
