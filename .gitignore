@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Packaging
+*.egg-info/
+.dist-info/
+
+# Pytest
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+
+connect.py
